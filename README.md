@@ -17,7 +17,7 @@ To add files to this repo, you'll need to either fork or clone (which ever you p
 8. Stage it. `git add test.txt`
 9. See that it's staged. `git status` (should see "new file: test.txt" in green)
 10. Commit change. `git commit -m "Add test file"`
-11. Push it to the remote. `git push game-design'
+11. Push it to the remote. `git push game-design`
 12. Check the GitHub repo here, to see that your changes worked.
 13. Now delete the test file. `rm test.txt`
 14. Stage the removal. `git rm test.txt`
