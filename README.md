@@ -19,7 +19,7 @@ To add files to this repo, you'll need to either fork or clone (which ever you p
 10. Commit change. `git commit -m "Add test file"`
 11. Push it to the remote. `git push game-design`
 12. Check the GitHub repo here, to see that your changes worked.
-13. Pull the changes to your local copy. `git pull game-design`
+13. Pull the changes to your local copy. `git pull game-design master`
 13. Now delete the test file. `rm test.txt`
 14. Stage the removal. `git rm test.txt`
 15. Commit the change. `git commit -m "Delete test file"`
